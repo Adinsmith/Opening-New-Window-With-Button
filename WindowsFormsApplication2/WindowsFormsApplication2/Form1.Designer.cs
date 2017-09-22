@@ -1,6 +1,6 @@
 ﻿namespace WindowsFormsApplication2
 {
-    partial class Form1
+    partial class myFirstForm
     {
         /// <summary>
         /// Required designer variable.
@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(myFirstForm));
             this.label1 = new System.Windows.Forms.Label();
             this.Boop = new System.Windows.Forms.Button();
             this.SuspendLayout();
@@ -51,14 +51,14 @@
             this.Boop.UseVisualStyleBackColor = true;
             this.Boop.Click += new System.EventHandler(this.button1_Click);
             // 
-            // Form1
+            // myFirstForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(504, 348);
             this.Controls.Add(this.Boop);
             this.Controls.Add(this.label1);
-            this.Name = "Form1";
+            this.Name = "myFirstForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
