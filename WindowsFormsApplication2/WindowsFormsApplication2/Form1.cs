@@ -11,27 +11,27 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApplication2
 {
-    public partial class Form1 : Form
+    public partial class myFirstForm : Form
     {
-        public Form1()
+        public myFirstForm()
         {
-            Thread t = new Thread(new ThreadStart(splashstart));
-            t.Start();
+            Thread splashThread = new Thread(new ThreadStart(splashstart));
+            splashThread.Start();
             Thread.Sleep(5000);
 
             InitializeComponent();
             
 
-            t.Abort();
+            splashThread.Abort();
         }
         public void splashstart()
         {
-            Application.Run(new Form2());
+            Application.Run(new mySplashScreen());
         }
 
-        public void nootnoot()
+        public void launchMySecondForm()
         {
-            Application.Run(new Form3());
+            Application.Run(new mySecondForm());
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -41,8 +41,8 @@ namespace WindowsFormsApplication2
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Thread v = new Thread(new ThreadStart(nootnoot));
-            v.Start();
+            Thread secondFormThread = new Thread(new ThreadStart(launchMySecondForm));
+            secondFormThread.Start();
             Application.Exit();
 
 

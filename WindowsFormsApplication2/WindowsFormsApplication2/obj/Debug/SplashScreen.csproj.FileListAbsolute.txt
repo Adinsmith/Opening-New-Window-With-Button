@@ -9,3 +9,14 @@ C:\Users\888933\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\De
 C:\Users\888933\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
 C:\Users\888933\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
 C:\Users\888933\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+C:\Users\rileyju\Documents\GitHub\Opening-New-Window-With-Button\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\rileyju\Documents\GitHub\Opening-New-Window-With-Button\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\rileyju\Documents\GitHub\Opening-New-Window-With-Button\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\rileyju\Documents\GitHub\Opening-New-Window-With-Button\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\rileyju\Documents\GitHub\Opening-New-Window-With-Button\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\rileyju\Documents\GitHub\Opening-New-Window-With-Button\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\SplashScreen.csprojResolveAssemblyReference.cache
+C:\Users\rileyju\Documents\GitHub\Opening-New-Window-With-Button\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.myFirstForm.resources
+C:\Users\rileyju\Documents\GitHub\Opening-New-Window-With-Button\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mySplashScreen.resources
+C:\Users\rileyju\Documents\GitHub\Opening-New-Window-With-Button\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.mySecondForm.resources
+C:\Users\rileyju\Documents\GitHub\Opening-New-Window-With-Button\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\rileyju\Documents\GitHub\Opening-New-Window-With-Button\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\SplashScreen.csproj.GenerateResource.Cache

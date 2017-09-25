@@ -1,6 +1,6 @@
 ﻿namespace WindowsFormsApplication2
 {
-    partial class Form3
+    partial class mySecondForm
     {
         /// <summary>
         /// Required designer variable.
@@ -51,7 +51,7 @@
             this.label2.Size = new System.Drawing.Size(0, 13);
             this.label2.TabIndex = 1;
             // 
-            // Form3
+            // mySecondForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -59,7 +59,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.MaximizeBox = false;
-            this.Name = "Form3";
+            this.Name = "mySecondForm";
             this.Text = "Form3";
             this.ResumeLayout(false);
             this.PerformLayout();
